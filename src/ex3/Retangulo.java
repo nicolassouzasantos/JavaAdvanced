@@ -1,3 +1,5 @@
+package ex3;
+
 class Retangulo extends Forma {
     private double largura;
     private double altura;

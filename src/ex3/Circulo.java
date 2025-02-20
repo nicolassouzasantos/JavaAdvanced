@@ -1,3 +1,5 @@
+package ex3;
+
 class Circulo extends Forma {
     private double raio;
     public Circulo(String cor, double raio) {

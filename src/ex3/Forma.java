@@ -1,3 +1,5 @@
+package ex3;
+
 abstract class Forma {
     protected String cor;
     public Forma(String cor) {

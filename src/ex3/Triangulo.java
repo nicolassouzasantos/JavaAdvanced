@@ -1,3 +1,5 @@
+package ex3;
+
 class Triangulo extends Forma {
     private double base;
     private double altura;
